@@ -6,7 +6,7 @@ function Header() {
     return (
         <Navbar bg="light" expand="lg">
             <LinkContainer to="/">
-                <Navbar.Brand>Perfil de Usuario</Navbar.Brand>
+                <Navbar.Brand>Perfil de Matias Bazan</Navbar.Brand>
             </LinkContainer>
             <Navbar id="basic-navbar-nav">
                 <Nav className="ml-auto">
